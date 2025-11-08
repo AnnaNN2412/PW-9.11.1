@@ -1,0 +1,25 @@
+body {
+    background-color:antiquewhite;
+    color:brown;
+}
+
+p {
+   margin-bottom: 10px; 
+}
+
+.card-header {
+    background-color: #DEB887;
+}
+
+.card-body{
+    background-color:beige;
+}
+
+button {
+    background-color: #DEB887;
+    border-color: brown;
+}
+
+button:hover {
+background-color: brown;
+}
